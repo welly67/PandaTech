@@ -48,7 +48,7 @@ const Login = ({ setAuthToken }) => {
       >
         <div className="bg-white p-8 rounded-lg shadow-md w-96">
           <h2 className="text-2xl font-semibold text-center mb-4">Login</h2>
-          {error && <p className="text-red-500 text-sm mb-3">{error}</p>}
+          {error && <p className="text-green-500 text-sm mb-3">{error}</p>}
           <form onSubmit={handleLogin} className="space-y-4">
             <input
               type="email"
