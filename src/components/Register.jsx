@@ -65,9 +65,9 @@ function Register() {
         </div>
       </div>
       <footer style={{ backgroundColor: "darkorange", color: "white", textAlign: "center", padding: "10px" }}>
-        Welcome to CityThat<br />
-        CityThat is a global workforce network mobile application that serves, (as its target members), white-collar and blue-collar small businesses, self-employed individuals, and freelancers.<br />
-        &copy; 2024 CityThat. All rights reserved.
+        Welcome to PandaTech<br />
+        PandaTech is a global workforce network mobile application that serves, (as its target members), white-collar and blue-collar small businesses, self-employed individuals, and freelancers.<br />
+        &copy; 2025 PandaTech. All rights reserved.
       </footer>
     </div>
   );

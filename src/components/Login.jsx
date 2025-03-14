@@ -26,7 +26,7 @@ const Login = ({ setAuthToken }) => {
         localStorage.setItem("token", data.token);
         setAuthToken(data.token);
         alert("Login successful!");
-        navigate("/dashboard"); 
+        navigate("/home"); 
       } else {
         setError("Invalid credentials.");
       }
